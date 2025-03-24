@@ -1,14 +1,15 @@
 # Wifi password list for cracking
 ## _resources for ethical hacking_
 
-Collection was from torrent "breachcompilation" - contains 1.4 billions passwords but after sort|uniq|akw 'length>8' it contains 320 millions uniq passwords. List was used for last several years for password testing and some services implement for password check (yes, for stoping re-using passwords) 
+The original collection was from a torrent "breachcompilation". The torrent contained  1.4 billions passwords but after running:  sort|uniq|akw 'length>8'  this wordlist now contains: 320 millions unique passwords. 
+The list was used in the last couple of years for password testing, some services implementions and for password checking (making services to stop users from re-using breached passwords) 
 
-- uniq passwords
+- unique passwords
 - help for penetration testers to speed up cracking of WPA/WPA2
 - ✨Magic ✨
 
 ## How to use
-check if you missing command 7z 
+check if you are missing command 7z 
 
 chmod +x con.sh
 
@@ -17,10 +18,10 @@ chmod +x con.sh
 
 ## Warning
 
-Use your skills to help people not to harm them. List would never produced to be used for evil purpose.
+Use your skills to help people not to harm them. This list was not produced to be used in any form of evil doings.
 
 ## Thanks 
-Complete hacker community because each day is challenge. 
+Complete hacker community, because each day is challenge. 
 
 Special tnx to https://dillinger.io/ for formating this document
 
